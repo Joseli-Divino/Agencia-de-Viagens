@@ -1,0 +1,9 @@
+com/api/travelagency/repository/ReservationRepository.class
+com/api/travelagency/model/Reservation.class
+com/api/travelagency/service/DestinationService.class
+DefaultController.class
+com/api/travelagency/service/ReservationService.class
+com/api/travelagency/controller/DestinationController.class
+com/api/travelagency/TravelAgencyApiApplication.class
+com/api/travelagency/model/Destination.class
+com/api/travelagency/repository/DestinationRepository.class
