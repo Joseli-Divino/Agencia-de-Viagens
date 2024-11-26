@@ -21,8 +21,8 @@ API RESTful desenvolvida em Java utilizando Spring Boot para gerenciar destinos 
 
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd travel-agency-api
+   git clone https://github.com/Joseli-Divino/Agencia-de-Viagens
+   cd Agencia-de-Viagens
    ```
 
 2. Certifique-se de que o Maven está instalado:
